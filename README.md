@@ -1,4 +1,4 @@
-# Лабораторная работа №5. Облачные базы данных. Amazon RDS, DynamoDB
+# Лабораторная работа №5. Облачные базы данных. Amazon RDS
 
 ## Цель работы
 Целью работы является ознакомиться с сервисами Amazon RDS (Relational Database Service) и Amazon DynamoDB, а также научиться:
